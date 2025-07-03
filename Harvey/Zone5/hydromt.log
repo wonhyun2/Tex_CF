@@ -1,0 +1,11 @@
+2025-01-24 11:03:08,735 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 11:03:09,020 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-97.99148148154019, 26.925000134694855, -96.56287041046045, 28.480277868997423] does not fully cover bbox [-97.994, 26.916, -96.556, 28.486]
+2025-01-24 11:03:09,039 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [5094.963741118876, 2984765.587695732, 150496.84120541488, 3158457.912575696] does not fully cover bbox [3792.051, 2982087.559, 151819.536, 3161258.292]
+2025-01-24 11:04:01,299 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: region
+2025-01-24 11:05:49,220 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: region
+2025-01-24 11:06:16,699 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 11:06:17,587 - hydromt_sfincs.sfincs - sfincs - WARNING - nan values in manning roughness array
+2025-01-24 11:07:19,020 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-97.99148148154019, 26.925000134694855, -96.56287041046045, 28.480277868997423] does not fully cover bbox [-97.994, 26.916, -96.556, 28.486]
+2025-01-24 11:07:19,034 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [5094.963741118876, 2984765.587695732, 150496.84120541488, 3158457.912575696] does not fully cover bbox [3792.051, 2982087.559, 151819.536, 3161258.292]
+2025-01-24 11:07:19,787 - hydromt_sfincs.sfincs - subgrid - WARNING - Fill manning roughness data at 398000 subgrid pixels with default values
+2025-01-24 11:44:44,240 - hydromt_sfincs.sfincs - sfincs - WARNING - zsini not in states, skipping
