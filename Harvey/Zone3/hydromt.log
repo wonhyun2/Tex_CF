@@ -1,0 +1,14 @@
+2025-01-23 14:26:01,712 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-23 14:26:04,447 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.2501925118719, 28.503030798844456, -94.95445177097785, 29.57133326810665] does not fully cover bbox [-96.278, 28.494, -94.946, 29.578]
+2025-01-23 14:26:04,462 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [181910.26008904676, 3155794.201617727, 310043.9423775452, 3274007.8568903417] does not fully cover bbox [179113.799, 3153523.523, 311506.363, 3276464.462]
+2025-01-23 14:30:25,938 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-23 14:31:43,700 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.2501925118719, 28.503030798844456, -94.95445177097785, 29.57133326810665] does not fully cover bbox [-96.278, 28.494, -94.946, 29.578]
+2025-01-23 14:31:43,711 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [181910.26008904676, 3155794.201617727, 310043.9423775452, 3274007.8568903417] does not fully cover bbox [179113.799, 3153523.523, 311506.363, 3276464.462]
+2025-01-23 14:41:33,369 - hydromt_sfincs.sfincs - sfincs - WARNING - zsini not in states, skipping
+2025-01-24 10:37:53,468 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 10:37:53,740 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.26333338181679, 28.502685275778468, -94.9541667518345, 29.57166672737835] does not fully cover bbox [-96.278, 28.494, -94.946, 29.578]
+2025-01-24 10:37:53,756 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [181910.26008904676, 3155794.201617727, 310043.9423775452, 3274007.8568903417] does not fully cover bbox [179113.799, 3153523.523, 311506.363, 3276464.462]
+2025-01-24 10:38:33,238 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 10:38:50,124 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.26333338181679, 28.502685275778468, -94.9541667518345, 29.57166672737835] does not fully cover bbox [-96.278, 28.494, -94.946, 29.578]
+2025-01-24 10:38:50,134 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [181910.26008904676, 3155794.201617727, 310043.9423775452, 3274007.8568903417] does not fully cover bbox [179113.799, 3153523.523, 311506.363, 3276464.462]
+2025-01-24 10:50:42,841 - hydromt_sfincs.sfincs - sfincs - WARNING - zsini not in states, skipping
