@@ -11,7 +11,8 @@ This repository contains the input files, domain configurations, and model resul
 Fig. Flood depth changes under Hurricane Harvey re-simulated with projected 2024 relative sea-level rise. a) average RSLR across six zones, derived from nine NOAA stations (detailed station information is provided in Table S4 of the Supplementary Information); flood amplification under b) max, c) mean, and d) min RSLR trends.
 
 **Lee, W., Sun, A. Y., & Scanlon, B. R. (2025)**  
-*Rapid Intensification and Relative Sea-Level Rise Amplifying Compound Flooding from Hurricanes Harvey to Beryl*  Submitted to _Earth’s Future_.
+*Rapid Intensification and Relative Sea-Level Rise Amplifying Compound Flooding from Hurricanes Harvey to Beryl*  
+Submitted to _Earth’s Future_.
 
 ---
 
@@ -30,6 +31,7 @@ We use SFINCS to simulate fluvial, pluvial, and surge-driven inundation for:
   d) tide+wind+rain  
 - Compound scenarios (all-driver)
 - Climate-adjusted RSLR scenario for Harvey
+- Please check out the description of input files: https://sfincs.readthedocs.io/en/latest/parameters.html#input-files
 
 ---
 
