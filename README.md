@@ -39,7 +39,7 @@ We use SFINCS to simulate fluvial, pluvial, and surge-driven inundation for:
 
 Each `Domain_Zone/` folder includes:
 - `sfincs.inp`: Model configuration file
-- `input/`: Hydrodynamic boundary, rainfall, river discharge, and wind files
+- `input/`: Hydrodynamic boundary, rainfall, river discharge, wind files, etc.. please check with each directory and files.
 - `output/`: Simulation results for flood depth, extent, and time series. map/his files are not including in these folders
 
 ---
