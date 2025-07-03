@@ -1,0 +1,1081 @@
+[forcing]
+Name                            = sfincs_0001
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06719  305.70
+S2      0.02315  294.88
+N2      0.01698  299.04
+K2      0.00583  300.96
+K1      0.13117   58.99
+O1      0.12603   51.58
+P1      0.04917   54.92
+Q1      0.03398   28.56
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0002
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06977  303.20
+S2      0.02308  294.46
+N2      0.01700  298.07
+K2      0.00583  300.96
+K1      0.13271   57.28
+O1      0.12684   49.77
+P1      0.04910   54.56
+Q1      0.03400   28.07
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0003
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07245  300.55
+S2      0.02285  293.20
+N2      0.01696  297.90
+K2      0.00583  300.96
+K1      0.13469   55.41
+O1      0.12761   47.99
+P1      0.04938   53.94
+Q1      0.03400   28.07
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0004
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07452  297.85
+S2      0.02297  292.52
+N2      0.01671  296.10
+K2      0.00583  300.96
+K1      0.13593   53.85
+O1      0.12849   46.44
+P1      0.04948   52.71
+Q1      0.03390   27.75
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0005
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07491  296.52
+S2      0.02333  290.47
+N2      0.01662  295.48
+K2      0.00583  300.96
+K1      0.13599   53.50
+O1      0.12838   46.09
+P1      0.04985   51.77
+Q1      0.03361   26.80
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0006
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07382  296.32
+S2      0.02344  290.39
+N2      0.01663  295.53
+K2      0.00583  300.96
+K1      0.13546   53.73
+O1      0.12790   46.34
+P1      0.04985   51.79
+Q1      0.03362   26.82
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0007
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07308  296.61
+S2      0.02345  290.24
+N2      0.01668  295.87
+K2      0.00583  300.96
+K1      0.13437   54.13
+O1      0.12727   46.86
+P1      0.04987   51.97
+Q1      0.03405   26.67
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0008
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07209  296.72
+S2      0.02341  289.98
+N2      0.01675  296.35
+K2      0.00583  300.96
+K1      0.13337   54.63
+O1      0.12632   47.41
+P1      0.04990   52.22
+Q1      0.03425   26.80
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0009
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07084  296.69
+S2      0.02341  289.98
+N2      0.01683  296.92
+K2      0.00583  300.96
+K1      0.13242   55.07
+O1      0.12515   47.93
+P1      0.04993   52.52
+Q1      0.03421   27.18
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0010
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06983  296.37
+S2      0.02341  289.98
+N2      0.01692  297.56
+K2      0.00583  300.96
+K1      0.13104   55.53
+O1      0.12484   48.50
+P1      0.04997   52.86
+Q1      0.03468   27.17
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0011
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06894  296.32
+S2      0.02393  289.54
+N2      0.01700  298.07
+K2      0.00583  300.96
+K1      0.13027   56.04
+O1      0.12389   49.04
+P1      0.05032   52.66
+Q1      0.03484   27.34
+MF      0.00800  359.70
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0012
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06826  296.38
+S2      0.02429  288.73
+N2      0.01700  298.07
+K2      0.00583  300.96
+K1      0.12974   56.36
+O1      0.12282   49.44
+P1      0.05043   52.48
+Q1      0.03470   27.46
+MF      0.00801  359.38
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0013
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06794  296.28
+S2      0.02420  288.10
+N2      0.01700  298.07
+K2      0.00583  300.96
+K1      0.12881   56.60
+O1      0.12202   49.70
+P1      0.05029   52.70
+Q1      0.03489   27.30
+MF      0.00801  359.16
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0014
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06780  295.44
+S2      0.02411  287.41
+N2      0.01700  298.07
+K2      0.00583  300.96
+K1      0.12827   56.57
+O1      0.12169   49.83
+P1      0.05014   52.92
+Q1      0.03489   27.30
+MF      0.00801  359.04
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0015
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06814  294.81
+S2      0.02447  286.63
+N2      0.01701  298.11
+K2      0.00583  300.96
+K1      0.12747   56.71
+O1      0.12104   49.90
+P1      0.05000   53.14
+Q1      0.03487   27.31
+MF      0.00801  359.03
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0016
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06856  294.11
+S2      0.02497  286.00
+N2      0.01719  299.17
+K2      0.00583  300.96
+K1      0.12658   56.74
+O1      0.12050   50.02
+P1      0.05000   53.13
+Q1      0.03469   27.47
+MF      0.00801  359.13
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0017
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.06926  293.14
+S2      0.02489  285.30
+N2      0.01746  300.79
+K2      0.00583  300.96
+K1      0.12619   56.42
+O1      0.12026   49.69
+P1      0.05000   53.13
+Q1      0.03483   27.35
+MF      0.00801  359.32
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0018
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07027  292.02
+S2      0.02526  284.47
+N2      0.01749  300.96
+K2      0.00583  300.96
+K1      0.12583   56.08
+O1      0.12003   49.42
+P1      0.05000   53.13
+Q1      0.03489   27.30
+MF      0.00800  359.66
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0019
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07161  290.77
+S2      0.02571  283.49
+N2      0.01750  300.98
+K2      0.00583  300.96
+K1      0.12519   55.65
+O1      0.11979   48.97
+P1      0.05000   53.14
+Q1      0.03488   27.31
+MF      0.00800  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0020
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07299  289.32
+S2      0.02599  283.26
+N2      0.01763  301.65
+K2      0.00583  300.96
+K1      0.12474   54.83
+O1      0.11952   48.26
+P1      0.05005   53.52
+Q1      0.03500   27.66
+MF      0.00795  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0021
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07469  287.62
+S2      0.02678  281.30
+N2      0.01776  302.32
+K2      0.00583  300.96
+K1      0.12506   54.06
+O1      0.11928   47.53
+P1      0.05003   53.32
+Q1      0.03512   28.02
+MF      0.00790  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0022
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.07728  285.92
+S2      0.02725  279.54
+N2      0.01789  302.97
+K2      0.00583  300.96
+K1      0.12525   53.02
+O1      0.11939   46.71
+P1      0.05000   53.13
+Q1      0.03523   28.36
+MF      0.00785  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0023
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.08045  284.09
+S2      0.02750  278.37
+N2      0.01801  303.62
+K2      0.00583  300.96
+K1      0.12566   51.83
+O1      0.11968   45.65
+P1      0.05000   53.13
+Q1      0.03534   28.70
+MF      0.00781  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0024
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.08392  282.62
+S2      0.02843  278.09
+N2      0.01803  303.69
+K2      0.00583  300.96
+K1      0.12628   50.81
+O1      0.12016   44.44
+P1      0.05000   53.15
+Q1      0.03536   28.74
+MF      0.00776  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0025
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.08735  280.88
+S2      0.02901  276.61
+N2      0.01803  303.69
+K2      0.00583  300.96
+K1      0.12710   49.43
+O1      0.12030   42.98
+P1      0.05000   53.13
+Q1      0.03536   28.74
+MF      0.00771  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0026
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.09108  279.18
+S2      0.02952  275.08
+N2      0.01803  303.69
+K2      0.00583  300.96
+K1      0.12804   48.05
+O1      0.12091   41.57
+P1      0.05008   53.01
+Q1      0.03529   28.55
+MF      0.00767  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0027
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.09534  277.54
+S2      0.03017  273.59
+N2      0.01803  303.69
+K2      0.00583  300.96
+K1      0.12902   46.61
+O1      0.12200   40.14
+P1      0.05007   53.02
+Q1      0.03530   28.57
+MF      0.00762  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0028
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.10000  276.00
+S2      0.03098  272.11
+N2      0.01808  303.94
+K2      0.00583  300.96
+K1      0.13053   44.93
+O1      0.12245   38.62
+P1      0.05000   53.13
+Q1      0.03536   28.74
+MF      0.00758  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0029
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.10484  274.52
+S2      0.03191  270.74
+N2      0.01820  304.47
+K2      0.00583  300.96
+K1      0.13187   43.35
+O1      0.12375   37.10
+P1      0.05025   52.75
+Q1      0.03536   28.74
+MF      0.00754  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0030
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.10973  273.15
+S2      0.03285  269.71
+N2      0.01846  304.73
+K2      0.00583  300.96
+K1      0.13342   41.75
+O1      0.12490   35.48
+P1      0.05027   52.42
+Q1      0.03528   28.50
+MF      0.00750  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0031
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.11502  271.86
+S2      0.03380  268.67
+N2      0.01869  304.83
+K2      0.00583  300.96
+K1      0.13497   40.22
+O1      0.12605   33.81
+P1      0.05034   51.99
+Q1      0.03522   28.33
+MF      0.00746  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0032
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.11967  270.40
+S2      0.03478  267.16
+N2      0.01882  302.74
+K2      0.00583  300.96
+K1      0.13688   38.64
+O1      0.12795   32.35
+P1      0.04995   51.64
+Q1      0.03532   28.62
+MF      0.00742  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0033
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.12389  269.24
+S2      0.03525  266.64
+N2      0.01889  302.40
+K2      0.00583  300.96
+K1      0.13906   37.37
+O1      0.12940   31.01
+P1      0.04982   51.52
+Q1      0.03513   28.04
+MF      0.00738  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0034
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.12835  268.28
+S2      0.03594  265.85
+N2      0.01904  302.81
+K2      0.00591  300.55
+K1      0.14119   36.07
+O1      0.13062   29.64
+P1      0.04994   51.34
+Q1      0.03521   27.61
+MF      0.00734  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0035
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.13288  267.37
+S2      0.03673  264.46
+N2      0.01915  303.31
+K2      0.00630  298.60
+K1      0.14312   34.68
+O1      0.13187   28.25
+P1      0.05012   51.07
+Q1      0.03556   27.66
+MF      0.00730  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0036
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.13696  266.53
+S2      0.03777  263.18
+N2      0.01927  303.82
+K2      0.00665  296.84
+K1      0.14544   33.52
+O1      0.13390   26.98
+P1      0.05018   50.62
+Q1      0.03571   26.93
+MF      0.00726  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0037
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.14113  265.54
+S2      0.03872  262.63
+N2      0.01938  304.33
+K2      0.00671  296.57
+K1      0.14734   32.44
+O1      0.13587   25.77
+P1      0.05003   50.23
+Q1      0.03578   26.57
+MF      0.00721  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0038
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.14530  264.58
+S2      0.03951  262.17
+N2      0.01930  303.98
+K2      0.00671  296.57
+K1      0.14905   31.29
+O1      0.13733   24.70
+P1      0.04990   49.79
+Q1      0.03578   26.57
+MF      0.00717  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0039
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.14920  263.87
+S2      0.03986  260.86
+N2      0.01907  302.92
+K2      0.00671  296.57
+K1      0.15115   30.20
+O1      0.13837   23.73
+P1      0.05010   49.35
+Q1      0.03578   26.57
+MF      0.00713  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0040
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.15258  263.02
+S2      0.04054  259.65
+N2      0.01918  303.45
+K2      0.00671  296.57
+K1      0.15289   29.33
+O1      0.14028   22.83
+P1      0.05022   49.17
+Q1      0.03578   26.57
+MF      0.00708  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0041
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.15557  262.20
+S2      0.04119  258.46
+N2      0.01912  303.14
+K2      0.00671  296.57
+K1      0.15423   28.53
+O1      0.14194   22.02
+P1      0.05027   48.97
+Q1      0.03578   26.57
+MF      0.00704  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0042
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.15832  261.47
+S2      0.04204  257.62
+N2      0.01890  302.16
+K2      0.00671  296.57
+K1      0.15569   27.89
+O1      0.14308   21.15
+P1      0.05032   48.79
+Q1      0.03578   26.57
+MF      0.00700  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0043
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.16114  260.86
+S2      0.04237  257.33
+N2      0.01906  302.86
+K2      0.00671  296.57
+K1      0.15761   27.12
+O1      0.14443   20.35
+P1      0.05028   48.11
+Q1      0.03578   26.57
+MF      0.00700  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0044
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.16361  260.29
+S2      0.04292  256.24
+N2      0.01904  302.80
+K2      0.00671  296.57
+K1      0.15865   26.43
+O1      0.14560   19.71
+P1      0.05027   47.93
+Q1      0.03578   26.57
+MF      0.00700  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0045
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.16614  259.92
+S2      0.04361  255.45
+N2      0.01900  302.61
+K2      0.00671  296.57
+K1      0.15956   26.04
+O1      0.14648   19.16
+P1      0.05025   47.49
+Q1      0.03578   26.57
+MF      0.00700  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0046
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.16652  260.42
+S2      0.04385  256.32
+N2      0.01934  304.14
+K2      0.00671  296.57
+K1      0.15967   26.25
+O1      0.14659   19.48
+P1      0.05030   48.43
+Q1      0.03578   26.57
+MF      0.00700  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
+[forcing]
+Name                            = sfincs_0047
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2      0.16590  261.10
+S2      0.04357  257.24
+N2      0.01942  304.51
+K2      0.00671  296.57
+K1      0.15893   26.72
+O1      0.14601   19.86
+P1      0.05033   49.03
+Q1      0.03578   26.57
+MF      0.00701  360.00
+MM      0.00316  341.57
+M4      0.00100  270.00
+MS4     0.00100  180.00
+MN4     0.00000    0.00
+
