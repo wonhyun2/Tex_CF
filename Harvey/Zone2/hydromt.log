@@ -1,0 +1,103 @@
+2025-01-23 13:50:51,980 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-23 13:50:52,213 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-95.83895794392201, 28.95852462605884, -94.10664312890225, 30.470808576855042] does not fully cover bbox [-95.857, 28.946, -94.100, 30.479]
+2025-01-23 13:50:52,232 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [225264.4522325387, 3204751.3719831537, 393261.9467885699, 3372840.718641184] does not fully cover bbox [221556.531, 3202475.767, 394404.269, 3375306.500]
+2025-01-23 13:52:10,117 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-23 13:52:32,862 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-95.83895794392201, 28.95852462605884, -94.10664312890225, 30.470808576855042] does not fully cover bbox [-95.857, 28.946, -94.100, 30.479]
+2025-01-23 13:52:32,871 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [225264.4522325387, 3204751.3719831537, 393261.9467885699, 3372840.718641184] does not fully cover bbox [221556.531, 3202475.767, 394404.269, 3375306.500]
+2025-01-23 14:09:26,248 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing forcing: dis
+2025-01-23 14:09:52,638 - hydromt_sfincs.sfincs - sfincs - WARNING - zsini not in states, skipping
+2025-01-24 10:13:31,063 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 10:14:42,404 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 10:14:42,718 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-95.83925931962577, 28.958240818599727, -94.10629640522247, 30.471111146680318] does not fully cover bbox [-95.857, 28.946, -94.100, 30.479]
+2025-01-24 10:14:42,741 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [225264.4522325387, 3204751.3719831537, 393261.9467885699, 3372840.718641184] does not fully cover bbox [221556.531, 3202475.767, 394404.269, 3375306.500]
+2025-01-24 10:15:14,785 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 10:15:58,913 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-95.83925931962577, 28.958240818599727, -94.10629640522247, 30.471111146680318] does not fully cover bbox [-95.857, 28.946, -94.100, 30.479]
+2025-01-24 10:15:58,926 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [225264.4522325387, 3204751.3719831537, 393261.9467885699, 3372840.718641184] does not fully cover bbox [221556.531, 3202475.767, 394404.269, 3375306.500]
+2025-01-24 10:36:35,538 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing forcing: dis
+2025-01-24 10:36:55,737 - hydromt_sfincs.sfincs - sfincs - WARNING - zsini not in states, skipping
+2025-03-25 21:20:00,654 - hydromt_sfincs.sfincs - sfincs - WARNING - Grid type not known, trying to read from config file. 
+2025-03-25 21:20:00,830 - hydromt_sfincs.sfincs - sfincs - WARNING - depfile not found at H:\multi_texas_sfincs\Harvey_all_v2\casen\zone2_n5m\sfincs.dep
+2025-03-25 21:20:00,888 - hydromt_sfincs.sfincs - sfincs - WARNING - manningfile not found at H:\multi_texas_sfincs\Harvey_all_v2\casen\zone2_n5m\sfincs.manning
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: inp
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: msk
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: qinf
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zb
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zs
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: h
+2025-03-25 21:20:02,667 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: u
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: v
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zsmax
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cumprcp
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: hmax
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cuminf
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_u
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_v
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: surface_air_pressure
+2025-03-25 21:20:02,696 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: precipitation_rate
+2025-03-25 21:20:02,697 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: total_runtime
+2025-03-25 21:20:02,697 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: average_dt
+2025-03-25 21:20:02,697 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: status
+2025-03-25 21:20:08,043 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: inp
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: msk
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: qinf
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zb
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zs
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: h
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: u
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: v
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zsmax
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cumprcp
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: hmax
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cuminf
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_u
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_v
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: surface_air_pressure
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: precipitation_rate
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: total_runtime
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: average_dt
+2025-03-25 21:20:08,044 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: status
+2025-03-25 21:21:07,603 - hydromt_sfincs.sfincs - sfincs - WARNING - Index in bndfile does not match H:\multi_texas_sfincs\Harvey_all_v2\casen\zone2_n5m\gis\bnd.geojson
+2025-03-25 21:21:07,621 - hydromt_sfincs.sfincs - sfincs - WARNING - Index in bndfile does not match H:\multi_texas_sfincs\Harvey_all_v2\casen\zone2_n5m\gis\bnd.geojson
+2025-03-26 09:54:02,404 - hydromt_sfincs.sfincs - sfincs - WARNING - Grid type not known, trying to read from config file. 
+2025-03-26 09:54:03,163 - hydromt_sfincs.sfincs - sfincs - WARNING - depfile not found at H:\multi_texas_sfincs\Harvey_all_v2\harvey_all\zone2_n5m\sfincs.dep
+2025-03-26 09:54:03,249 - hydromt_sfincs.sfincs - sfincs - WARNING - manningfile not found at H:\multi_texas_sfincs\Harvey_all_v2\harvey_all\zone2_n5m\sfincs.manning
+2025-03-26 09:54:05,534 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: inp
+2025-03-26 09:54:05,534 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: msk
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: qinf
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zb
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zs
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: h
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: u
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: v
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zsmax
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cumprcp
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: hmax
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cuminf
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_u
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_v
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: surface_air_pressure
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: precipitation_rate
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: total_runtime
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: average_dt
+2025-03-26 09:54:05,566 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: status
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: inp
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: msk
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: qinf
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zb
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zs
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: h
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: u
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: v
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: zsmax
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cumprcp
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: hmax
+2025-03-26 09:54:06,515 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: cuminf
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_u
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: wind_v
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: surface_air_pressure
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: precipitation_rate
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: total_runtime
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: average_dt
+2025-03-26 09:54:06,516 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing result: status
+2025-03-26 09:54:25,770 - hydromt_sfincs.sfincs - sfincs - WARNING - Index in bndfile does not match H:\multi_texas_sfincs\Harvey_all_v2\harvey_all\zone2_n5m\gis\bnd.geojson
+2025-03-26 09:54:25,785 - hydromt_sfincs.sfincs - sfincs - WARNING - Index in bndfile does not match H:\multi_texas_sfincs\Harvey_all_v2\harvey_all\zone2_n5m\gis\bnd.geojson

@@ -1,0 +1,64 @@
+CUDEM_TX.tif:
+  data_type: RasterDataset
+  provider: user
+  path: C:/Users/leew/Desktop/BEG_work/SFINCS_overview_JW/tif_files/CUDEM_TX.tif
+  driver: raster
+  meta:
+    version: '1'
+crm.tif:
+  data_type: RasterDataset
+  provider: user
+  path: C:/Users/leew/Desktop/BEG_work/SFINCS_overview_JW/tif_files/crm.tif
+  driver: raster
+  meta:
+    version: '1'
+era5_hourly:
+  data_type: RasterDataset
+  path: C:\Users\leew\.hydromt_data\artifact_data\v0.0.9\data.tar\era5_hourly.nc
+  driver: netcdf
+  unit_mult:
+    kin: 0.000277778
+    kout: 0.000277778
+    precip: 1000
+    press_msl: 0.01
+  unit_add:
+    temp: -273.15
+  meta:
+    category: meteo
+    history: Extracted from Copernicus Climate Data Store
+    paper_doi: 10.1002/qj.3803
+    paper_ref: Hersbach et al. (2019)
+    source_license: https://cds.climate.copernicus.eu/cdsapp/#!/terms/licence-to-use-copernicus-products
+    source_url: https://doi.org/10.24381/cds.bd0915c6
+  crs: 4326
+gcn250:
+  data_type: RasterDataset
+  version: v1
+  path: C:\Users\leew\.hydromt_data\artifact_data\v0.0.9\data.tar\gcn250\{variable}.tif
+  driver: raster
+  nodata: 255
+  meta:
+    category: soil
+    paper_doi: 10.1038/s41597-019-0155-x
+    paper_ref: Jaafar et al. (2019)
+    source_license: CC BY 4.0
+    source_url: https://doi.org/10.6084/m9.figshare.7756202.v1
+merit_hydro:
+  data_type: RasterDataset
+  version: '1.0'
+  path: C:\Users\leew\.hydromt_data\artifact_data\v0.0.9\data.tar\merit_hydro\{variable}.tif
+  driver: raster
+  meta:
+    category: topography
+    paper_doi: 10.1029/2019WR024873
+    paper_ref: Yamazaki et al. (2019)
+    source_license: CC-BY-NC 4.0 or ODbL 1.0
+    source_url: http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro
+  crs: 4326
+outputData.tif:
+  data_type: RasterDataset
+  provider: user
+  path: C:/Users/leew/Desktop/BEG_work/SFINCS_overview_JW/tif_files/outputData.tif
+  driver: raster
+  meta:
+    version: '1'
