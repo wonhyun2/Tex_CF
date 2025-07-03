@@ -1,0 +1,20 @@
+2025-01-23 16:47:14,059 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-23 16:47:17,417 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.2501925118719, 28.49945055193045, -95.8646986846658, 29.066271539651833] does not fully cover bbox [-97.145, 28.012, -95.848, 29.081]
+2025-01-23 16:47:17,431 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [95018.17159806515, 3105642.9539263146, 220028.88241859994, 3220090.673016974] does not fully cover bbox [92281.652, 3101777.198, 222767.506, 3224092.080]
+2025-01-23 16:58:17,150 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-23 17:03:40,236 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.2501925118719, 28.49945055193045, -95.8646986846658, 29.066271539651833] does not fully cover bbox [-97.145, 28.012, -95.848, 29.081]
+2025-01-23 17:03:40,247 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [95018.17159806515, 3105642.9539263146, 220028.88241859994, 3220090.673016974] does not fully cover bbox [92281.652, 3101777.198, 222767.506, 3224092.080]
+2025-01-24 09:01:00,193 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 09:01:07,500 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing forcing: dis
+2025-01-24 09:01:07,500 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: rivers_inflow
+2025-01-24 09:01:13,130 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.2501925118719, 28.49945055193045, -95.8646986846658, 29.066271539651833] does not fully cover bbox [-97.145, 28.012, -95.848, 29.081]
+2025-01-24 09:01:13,141 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [95018.17159806515, 3105642.9539263146, 220028.88241859994, 3220090.673016974] does not fully cover bbox [92281.652, 3101777.198, 222767.506, 3224092.080]
+2025-01-24 09:08:40,889 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: region
+2025-01-24 09:14:23,406 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: region
+2025-01-24 09:14:36,563 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: region
+2025-01-24 09:14:53,294 - hydromt_sfincs.sfincs - io - WARNING - nodata value missing for C:\Users\leew\Desktop\BEG_work\SFINCS_overview_JW\tif_files\outputData.tif
+2025-01-24 09:15:00,432 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing forcing: dis
+2025-01-24 09:15:00,432 - hydromt_sfincs.sfincs - model_api - WARNING - Replacing geom: rivers_inflow
+2025-01-24 09:15:06,051 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [-96.2501925118719, 28.49945055193045, -95.8646986846658, 29.066271539651833] does not fully cover bbox [-97.145, 28.012, -95.848, 29.081]
+2025-01-24 09:15:06,062 - hydromt_sfincs.sfincs - rasterdataset - WARNING - Dataset [95018.17159806515, 3105642.9539263146, 220028.88241859994, 3220090.673016974] does not fully cover bbox [92281.652, 3101777.198, 222767.506, 3224092.080]
+2025-01-24 09:23:15,914 - hydromt_sfincs.sfincs - sfincs - WARNING - zsini not in states, skipping
